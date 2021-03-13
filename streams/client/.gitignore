@@ -1,19 +1,10 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# misc
-favicon.ico
-logo192.png
-logo512.png
-manifest.json
-robots.txt
-reportWebVitals.js
-setupTests.js
-
 # dependencies
 /node_modules
-.d.ts
 /.pnp
 .pnp.js
+.d.ts
 
 # testing
 /coverage
